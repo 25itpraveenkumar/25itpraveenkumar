@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/25itpraveenkumar/25itpraveenkumar/main/assets/banner.png" alt="Banner" width="100%">
+<img src="https://raw.githubusercontent.com/25itpraveenkumar/25itpraveenkumar/main/banner.png" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Praveen Kumar S</h1>
@@ -13,21 +13,24 @@ Aspiring Java Developer • B.Tech Information Technology Student
 </p>
 
 <p align="center">
-<a href="mailto:praveenpragadeesh1814@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="mailto:praveenpragadeesh1814@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="42"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/praveen-kumar-ab0852396/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/praveen-kumar-ab0852396/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
 
-<a href="https://leetcode.com/u/Praveen9942/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+  <a href="https://github.com/25itpraveenkumar">
+    <img src="https://skillicons.dev/icons?i=github" height="42"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
 
-<a href="https://github.com/25itpraveenkumar/Portfolio">
-<img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+  <a href="https://leetcode.com/u/Praveen9942/">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="42"/>
+  </a>
 </p>
 
 <p align="center">
