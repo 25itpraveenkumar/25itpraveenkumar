@@ -47,20 +47,21 @@ I enjoy learning by building projects and continuously improving my programming 
 
 ### Tools
 <img src="https://skillicons.dev/icons?i=vscode,git,github,eclipse"/>
+</div>
 
-# 📂 Featured Projects
 
-  ## 🌦️ Weather Dashboard
+## 📂Featured Projects
 
-A responsive weather application that displays real-time weather information using a weather API.
+### 🌦️ Weather Dashboard
 
-### Features
+A responsive weather application that displays real-time weather information.
 
-* Real-time weather updates
-* Clean and responsive interface
-* Weather search functionality
-* User-friendly design
+#### Features
 
+- Real-time weather updates
+- Clean and responsive interface
+- Weather search functionality
+- User-friendly design
 ---
 
 ## 💼 Portfolio Website
