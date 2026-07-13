@@ -1,108 +1,63 @@
-<p align="center">
-<img src="https://raw.githubusercontent.com/25itpraveenkumar/25itpraveenkumar/main/banner.png" width="100%">
-</p>
-
-<h1 align="center">Hi 👋, I'm Praveen Kumar S</h1>
-
-<h3 align="center">
-Aspiring Java Developer • B.Tech Information Technology Student
-</h3>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Praveen Kumar S
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Aspiring+Java+Developer;Strengthening+Coding+Skills;Learning+Data+Structures+%26+Algorithms;Building+Real+World+Projects;Welcome+to+My+GitHub+Profile!">
-</p>
-
-<p align="center">
-  <a href="mailto:praveenpragadeesh1814@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="42"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.linkedin.com/in/praveen-kumar-ab0852396/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://github.com/25itpraveenkumar">
-    <img src="https://skillicons.dev/icons?i=github" height="42"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://leetcode.com/u/Praveen9942/">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="42"/>
-  </a>
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=25itpraveenkumar&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Aspiring+Java+Developer;B.Tech+Information+Technology+Student;Strengthening+Coding+Skills+Every+Day;Learning+One+Step+at+a+Time" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## About Me
 
-I'm **Praveen Kumar S**, a **2nd Year B.Tech Information Technology** student at **V.S.B. Engineering College, Karur**.
+I am **Praveen Kumar S**, a second-year **B.Tech Information Technology** student at **V.S.B. Engineering College, Karur**.
 
-I enjoy learning through projects and continuously improving my programming skills. My current focus is mastering Java, strengthening problem-solving abilities, and building practical software applications.
+My current focus is strengthening my programming fundamentals, improving my problem-solving skills, and building practical projects that enhance my understanding of software development.
 
-🎯 **Career Goal**
-
-Become a skilled **Java Developer** and build software that solves real-world problems.
+My long-term goal is to become a skilled **Java Developer** by continuously learning, practicing Data Structures & Algorithms, and creating meaningful applications.
 
 ---
 
-# 🚀 Currently Learning
+## Current Focus
 
-- ☕ Java Programming
-- 🧠 Data Structures & Algorithms
-- 🗄️ SQL
-- 💻 GitHub Best Practices
-- 🚀 Building Real-World Projects
+* Learning Java Programming
+* Improving coding skills through regular practice
+* Exploring SQL and database concepts
+* Building real-world projects
+* Growing my GitHub portfolio
 
 ---
 
-# 🛠 Tech Stack
+## Tech Stack
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,mysql"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,github"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,mysql,git,github,vscode" />
 </p>
 
 ---
 
-# 📂 Featured Projects
+## Featured Projects
 
-## 🌦 Weather Dashboard
+### Weather Dashboard
 
-A responsive weather application that provides real-time weather information using a weather API.
+A responsive weather application that displays real-time weather information using a weather API.
 
 **Highlights**
 
-- Real-time Weather
-- Responsive UI
-- Search Functionality
-- Clean Interface
+* Live weather data
+* Clean user interface
+* Responsive design
 
 ---
 
-## 💼 Portfolio Website
+### Portfolio
 
-A personal portfolio website showcasing my skills, projects, and learning journey.
+A personal portfolio showcasing my projects, skills, and learning journey.
 
-Repository
-
+Repository:
 https://github.com/25itpraveenkumar/Portfolio
 
 ---
 
-# 📊 GitHub Analytics
+## GitHub Statistics
 
 <p align="center">
 
@@ -112,33 +67,13 @@ https://github.com/25itpraveenkumar/Portfolio
 
 </p>
 
----
-
-# 🔥 GitHub Streak
-
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=25itpraveenkumar&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=25itpraveenkumar&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 💻 LeetCode Stats
-
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/Praveen9942?theme=dark&font=Poppins&ext=heatmap"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
+## GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=25itpraveenkumar&theme=tokyonight&no-frame=true&row=1&column=6"/>
@@ -146,63 +81,54 @@ https://github.com/25itpraveenkumar/Portfolio
 
 ---
 
-# 📜 Certification
+## Coding Journey
 
-🎓 NPTEL Certification
+* Java Learner
+* SQL Enthusiast
+* Started solving problems on LeetCode
+* Building projects to improve practical knowledge
 
----
-
-# 🎯 Goals for 2026
-
-- ✅ Become a Java Developer
-- ✅ Improve Problem Solving Skills
-- ✅ Learn Data Structures & Algorithms
-- ✅ Build More Java Projects
-- ✅ Solve LeetCode Problems Consistently
-- ✅ Contribute Regularly on GitHub
-- ✅ Prepare for Software Engineering Internships
+Every project I build teaches me something new, and every coding problem I solve strengthens my understanding of programming.
 
 ---
 
-# 🌐 Connect With Me
+## Certification
 
-📧 Email
+* NPTEL Certification
 
-**praveenpragadeesh1814@gmail.com**
+---
 
-💼 LinkedIn
+## Connect With Me
+
+**Email**
+
+📧 [praveenpragadeesh1814@gmail.com](mailto:praveenpragadeesh1814@gmail.com)
+
+**LinkedIn**
 
 https://www.linkedin.com/in/praveen-kumar-ab0852396/
 
-💻 LeetCode
+**LeetCode**
 
 https://leetcode.com/u/Praveen9942/
 
-📂 Portfolio Repository
+**Portfolio Repository**
 
 https://github.com/25itpraveenkumar/Portfolio
 
 ---
 
-# 🐍 Contribution Snake
+## Goals for 2026
 
-> After setting up the GitHub Action, uncomment the code below.
-
-```html
-<p align="center">
-<img src="https://raw.githubusercontent.com/25itpraveenkumar/25itpraveenkumar/output/github-contribution-grid-snake.svg">
-</p>
-````
+* Become proficient in Java
+* Solve more LeetCode problems consistently
+* Build multiple real-world projects
+* Learn Data Structures and Algorithms
+* Contribute regularly on GitHub
+* Prepare for software engineering internships
 
 ---
 
-<div align="center">
-
-## ⭐ Thanks for Visiting!
-
-*"Every line of code I write today is a step toward becoming a better developer tomorrow."*
-
-**Keep Learning • Keep Building • Keep Growing 🚀**
-
-</div>
-
+<p align="center">
+<i>"Success in programming is built one commit, one bug fix, and one lesson at a time."</i>
+</p>
