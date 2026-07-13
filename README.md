@@ -1,4 +1,3 @@
-<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/2e135924-8bf6-4387-bfc2-1417710d6659" />````markdown
 <p align="center">
   <img src="https://raw.githubusercontent.com/25itpraveenkumar/25itpraveenkumar/main/assets/banner.png" alt="Banner" width="100%">
 </p>
@@ -203,4 +202,4 @@ https://github.com/25itpraveenkumar/Portfolio
 **Keep Learning • Keep Building • Keep Growing 🚀**
 
 </div>
-```
+
