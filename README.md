@@ -81,7 +81,7 @@ My personal portfolio showcasing my skills, projects, and learning journey.
 
 # 🔥 GitHub Streak
 
-<p align="center">
+<p align="left">
 <img src="https://streak-stats.demolab.com?user=25itpraveenkumar&theme=tokyonight&hide_border=true"/>
 </p>
 
