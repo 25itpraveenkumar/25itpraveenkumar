@@ -40,16 +40,17 @@ I enjoy learning by building projects and continuously improving my programming 
 ---
 
 # 🛠️ Tech Stack
+<div align="center">
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,mysql,vscode,github" />
-</p>
+### Languages
+<img src="https://skillicons.dev/icons?i=c,python,java"/>
 
----
+### Tools
+<img src="https://skillicons.dev/icons?i=vscode,git,github,eclipse"/>
 
 # 📂 Featured Projects
 
-## 🌦️ Weather Dashboard
+  ## 🌦️ Weather Dashboard
 
 A responsive weather application that displays real-time weather information using a weather API.
 
