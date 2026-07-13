@@ -75,13 +75,14 @@ My personal portfolio showcasing my skills, projects, and learning journey.
 
 # 📈Leetcode
 
-<img src="https://leetcard.jacoblin.cool/Praveen9942?theme=dark&font=Poppins&ext=contest"/>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Praveen9942?theme=dark&font=Poppins&ext=contest"/>
+</p>
 
----
 
 # 🔥 GitHub Streak
 
-<p align="left">
+<p align="center">
 <img src="https://streak-stats.demolab.com?user=25itpraveenkumar&theme=tokyonight&hide_border=true"/>
 </p>
 
