@@ -1,71 +1,83 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Praveen Kumar S
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,12,20,24,30&text=Praveen%20Kumar%20S&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Aspiring+Java+Developer;B.Tech+Information+Technology+Student;Strengthening+Coding+Skills+Every+Day;Learning+One+Step+at+a+Time" />
+# Hi, I'm Praveen Kumar S 👋
+
+### Aspiring Java Developer | B.Tech Information Technology Student
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveen-kumar-ab0852396/)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Praveen9942/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/25itpraveenkumar/Portfolio)
+  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praveenpragadeesh1814@gmail.com)
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Aspiring+Java+Developer;Strengthening+Coding+Skills;Building+Projects+%26+Learning+Every+Day;Welcome+to+My+GitHub+Profile!" />
 </p>
 
----
-
-## About Me
-
-I am **Praveen Kumar S**, a second-year **B.Tech Information Technology** student at **V.S.B. Engineering College, Karur**.
-
-My current focus is strengthening my programming fundamentals, improving my problem-solving skills, and building practical projects that enhance my understanding of software development.
-
-My long-term goal is to become a skilled **Java Developer** by continuously learning, practicing Data Structures & Algorithms, and creating meaningful applications.
+</div>
 
 ---
 
-## Current Focus
+# 👨‍💻 About Me
 
-* Learning Java Programming
-* Improving coding skills through regular practice
-* Exploring SQL and database concepts
-* Building real-world projects
-* Growing my GitHub portfolio
+I'm **Praveen Kumar S**, a **2nd Year B.Tech Information Technology** student at **V.S.B. Engineering College, Karur**.
+
+I enjoy learning by building projects and continuously improving my programming skills. My current focus is strengthening my Java fundamentals, enhancing problem-solving skills, and gaining practical experience through real-world projects.
+
+🎯 **Career Goal:** Become a skilled **Java Developer**.
 
 ---
 
-## Tech Stack
+# 🚀 Current Focus
+
+* ☕ Learning Java Programming
+* 🧠 Improving Problem Solving
+* 🗄️ Learning SQL
+* 📚 Practicing Data Structures & Algorithms
+* 💻 Building Practical Projects
+* 🌱 Growing my GitHub Profile
+
+---
+
+# 🛠️ Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,mysql,vscode,github" />
 </p>
 
 ---
 
-## Featured Projects
+# 📂 Featured Projects
 
-### Weather Dashboard
+## 🌦️ Weather Dashboard
 
 A responsive weather application that displays real-time weather information using a weather API.
 
-**Highlights**
+### Features
 
-* Live weather data
-* Clean user interface
-* Responsive design
-
----
-
-### Portfolio
-
-A personal portfolio showcasing my projects, skills, and learning journey.
-
-Repository:
-https://github.com/25itpraveenkumar/Portfolio
+* Real-time weather updates
+* Clean and responsive interface
+* Weather search functionality
+* User-friendly design
 
 ---
 
-## GitHub Statistics
+## 💼 Portfolio Website
 
-<p align="center">
+My personal portfolio showcasing my skills, projects, and learning journey.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=25itpraveenkumar&show_icons=true&theme=tokyonight&hide_border=true"/>
+🔗 Repository:
+**https://github.com/25itpraveenkumar/Portfolio**
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=25itpraveenkumar&layout=compact&theme=tokyonight&hide_border=true"/>
+---
 
-</p>
+# 📈Leetcode
+
+<img src="https://leetcard.jacoblin.cool/Praveen9942?theme=dark&font=Poppins&ext=contest"/>
+
+---
+
+# 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=25itpraveenkumar&theme=tokyonight&hide_border=true"/>
@@ -73,62 +85,63 @@ https://github.com/25itpraveenkumar/Portfolio
 
 ---
 
-## GitHub Trophies
+# 📚 Learning Journey
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=25itpraveenkumar&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
+✔ Java Programming
 
----
+✔ SQL
 
-## Coding Journey
+✔ GitHub
 
-* Java Learner
-* SQL Enthusiast
-* Started solving problems on LeetCode
-* Building projects to improve practical knowledge
+✔ Building Projects
 
-Every project I build teaches me something new, and every coding problem I solve strengthens my understanding of programming.
+✔ Started solving LeetCode problems
+
+Every project helps me learn something new, and every coding challenge helps me become a better developer.
 
 ---
 
-## Certification
+# 📜 Certification
 
-* NPTEL Certification
-
----
-
-## Connect With Me
-
-**Email**
-
-📧 [praveenpragadeesh1814@gmail.com](mailto:praveenpragadeesh1814@gmail.com)
-
-**LinkedIn**
-
-https://www.linkedin.com/in/praveen-kumar-ab0852396/
-
-**LeetCode**
-
-https://leetcode.com/u/Praveen9942/
-
-**Portfolio Repository**
-
-https://github.com/25itpraveenkumar/Portfolio
+* 🎓 NPTEL Certification
 
 ---
 
-## Goals for 2026
+# 🎯 Goals
 
-* Become proficient in Java
-* Solve more LeetCode problems consistently
-* Build multiple real-world projects
-* Learn Data Structures and Algorithms
+* Become a Java Developer
+* Strengthen DSA skills
+* Solve LeetCode problems consistently
+* Build impactful Java projects
 * Contribute regularly on GitHub
 * Prepare for software engineering internships
 
 ---
 
-<p align="center">
-<i>"Success in programming is built one commit, one bug fix, and one lesson at a time."</i>
-</p>
+# 🌐 Connect With Me
+
+📧 **Email**
+
+**[praveenpragadeesh1814@gmail.com](mailto:praveenpragadeesh1814@gmail.com)**
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/praveen-kumar-ab0852396/
+
+💻 **LeetCode**
+
+https://leetcode.com/u/Praveen9942/
+
+📂 **Portfolio Repository**
+
+https://github.com/25itpraveenkumar/Portfolio
+
+---
+
+<div align="center">
+
+###  Thanks for visiting my profile!
+
+*"Success is built one line of code, one project, and one lesson at a time."*
+
+</div>
