@@ -79,15 +79,18 @@ My personal portfolio showcasing my skills, projects, and learning journey.
   <img src="https://leetcard.jacoblin.cool/Praveen9942?theme=dark&font=Poppins&ext=contest"/>
 </p>
 
+---
 
-# 🔥 GitHub Streak
+
+## GeeksforGeeks Stats
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=25itpraveenkumar&theme=tokyonight&hide_border=true"/>
+  <a href="https://www.geeksforgeeks.org/profile/praveen9942">
+    <img src="https://gfgstatscard.vercel.app/praveen9942" alt="GeeksforGeeks Stats"/>
+  </a>
 </p>
 
 ---
-
 # 📚 Learning Journey
 
 ✔ Java Programming
@@ -107,6 +110,7 @@ Every project helps me learn something new, and every coding challenge helps me 
 # 📜 Certification
 
 * 🎓 NPTEL Certification
+
 
 ---
 
