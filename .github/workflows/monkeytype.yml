@@ -1,0 +1,22 @@
+name: Update Monkeytype Stats
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Monkeytype Stats
+        uses: monkeytype-hub/monkeytype-readme@v1.0.0
+        with:
+          username: Praveen9942
+          themes: dark
+          target-branch: main
+          github-token: ${{ secrets.GITHUB_TOKEN }}
